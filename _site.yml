@@ -1,5 +1,6 @@
 name: "Web"
 title: "Laboratorio Econometria II"
+theme: my_theme.css
 description: |
   Laboratorio Econometria II
 output_dir: "_site"
