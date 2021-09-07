@@ -1,7 +1,7 @@
 ---
 title: "Laboratorio Econometria II"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  En este sitio encontraràs el material del labroatorio de econometria II 
 site: distill::distill_website
 ---
 
@@ -12,4 +12,15 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/website.html
 
 ```
+
+# Clases
+
+Las clases seràn los lunes de 7.00 AM a 8.30 AM.
+
+Se impartiràn en Zoom. Podràs acceder a travès de [este link](https://cide-edu.zoom.us/j/83749177950).
+
+# Contacto
+
+El laboratorio serà impartido ppor Federico Daverio. Cualquier dudas o comentarios lo podràn contactar por medio de este <a href="mailto:federico.daverio@alumnos.cide.edu">correo</a>
+
 

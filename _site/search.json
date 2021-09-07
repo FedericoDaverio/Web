@@ -6,15 +6,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-07T09:58:05-05:00"
+      "last_modified": "2021-09-07T10:16:00-05:00"
     },
     {
       "path": "index.html",
       "title": "Laboratorio Econometria II",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "description": "En este sitio encontraràs el material del labroatorio de econometria II \n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-07T09:58:06-05:00"
+      "contents": "\r\nClases\r\nLas clases seràn los lunes de 7.00 AM a 8.30 AM.\r\nSe impartiràn en Zoom. Podràs acceder a travès de este link.\r\nContacto\r\nEl laboratorio serà impartido ppor Federico Daverio. Cualquier dudas o comentarios lo podràn contactar por medio de este correo\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-09-07T10:16:02-05:00"
     }
   ],
   "collections": []
