@@ -21,6 +21,12 @@ Se impartiràn en Zoom. Podràs acceder a travès de [este link](https://cide-ed
 
 # Contacto
 
-El laboratorio serà impartido ppor Federico Daverio. Cualquier dudas o comentarios lo podràn contactar por medio de este <a href="mailto:federico.daverio@alumnos.cide.edu">correo</a>
+El laboratorio serà impartido por Federico Daverio. Cualquier dudas o comentarios lo podràn contactar por medio de este <a href="mailto:federico.daverio@alumnos.cide.edu">correo</a>
 
+# Laboratorios
+
+Todos los laboratorios los podràn encontrar en la pestaña dedicata en la parte de arriba. Todos los codigos RMD pueden ser descargados. Son apreciados comentarios con respecto a eventuales inexactitudes de los documentos.
+
+# Bases de datos
+Las bases de datos pueden ser encotnradas en el siguiente [link](https://drive.google.com/drive/folders/15OThj4KoBPBmAMpApVmMDhFecBK6CEDV?usp=sharing), para acceder a ellas hay que solicitar acceso. 
 

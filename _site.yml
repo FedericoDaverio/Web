@@ -4,10 +4,21 @@ theme: my_theme.css
 description: |
   Laboratorio Econometria II
 output_dir: "_site"
+exclude: ["DBS"]
 navbar:
-  right:
+  left:
     - text: "Home"
       href: index.html
+    - text: "Laboratorios"
+      menu:
+      - text: "Lab 1"
+        href: Laboratorio1.html
+      - text: "Lab 2"
+        href: Laboratorio2.html
+      - text: "Lab 3"
+        href: Laboratorio3.html
+      - text: "Lab 4"
+        href:
     - text: "About"
       href: about.html
 output: distill::distill_article
