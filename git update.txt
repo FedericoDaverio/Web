@@ -1,0 +1,5 @@
+comandos para github
+git add -A
+git commit -m"website ready"
+
+push by button
