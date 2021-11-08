@@ -26,7 +26,13 @@ navbar:
       - text: "Lab 7"
         href: Lab7.html
       - text: "Lab 8"
-        href: Lab8.html  
+        href: Lab8.html
+      - text: "Lab 8B"
+        href: Lab8B.html
+      - text: "Lab 9"
+        href: Lab9.html
+      - text: "Lab 10"
+        href: Lab10.html
     - text: "About"
       href: about.html
 output: distill::distill_article
